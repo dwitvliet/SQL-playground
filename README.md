@@ -4,7 +4,7 @@
 
 ### Setup if you want to run the notebook yourself
 
-Install MySQL.
+Install MySQL 8.0.
 
 Install dependencies:
    
