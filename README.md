@@ -1,6 +1,6 @@
 # SQL playground
 
-This repository is for trifling with a sample MySQL database, to test out advanced queries. See the [repository Jupyter Notebook](https://github.com/dwitvliet/SQL-playground/blob/main/SQL-playground.ipynb). More sample queries will be added soon with more detailed descriptions.
+This repository is for trifling with a sample MySQL database, to test out advanced queries. See the [repository Jupyter Notebook](https://github.com/dwitvliet/SQL-playground/blob/main/SQL-playground.ipynb).
 
 ## Database diagram
 
